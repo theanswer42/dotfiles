@@ -15,8 +15,8 @@
 (setq inhibit-startup-message t)
 
 ; indents
-(setq tab-width 4)
-(setq c-basic-offset 4)
+(setq tab-width 2)
+(setq c-basic-offset 2)
 (setq indent-tabs-mode nil)
 
 ; font - set default font to droid sans mono
